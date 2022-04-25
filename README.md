@@ -24,10 +24,13 @@ Purpose of Random classifier: One of the most important features of the Random F
 ## Program:
 
 Program to implement random classification.
+
 Developed by   : LOKESH KRISHNAA M 
+
 RegisterNumber :  212220230030
 
-```
+```python
+
 import matplotlib.pyplot as plt
 from sklearn import datasets
 x,y=datasets.make_blobs(n_samples=100,n_features=2,centers=2,cluster_std=1.05,random_state=2)
