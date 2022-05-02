@@ -28,14 +28,15 @@ Purpose of Random classifier: One of the most important features of the Random F
 
 
 ## Program:
-
-Program to implement random classification.
-
-Developed by   : LOKESH KRISHNAA M 
-
-RegisterNumber :  212220230030
-
 ```python
+
+#Program to implement random classification.
+
+#Developed by   : LOKESH KRISHNAA M 
+
+#RegisterNumber :  212220230030
+
+
 #importing required libraries 
 
 import matplotlib.pyplot as plt
