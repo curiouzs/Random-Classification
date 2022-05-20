@@ -1,5 +1,5 @@
 ### EXP. NO : 01
-### DATE: 
+### DATE: 04.11.22
 
 # <p align="center">RANDOM CLASSIFICATION</p>
 ## AIM:
