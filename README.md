@@ -15,9 +15,7 @@ Random classifier: It creates a set of decision trees from randomly selected sub
 
 Purpose of Random classifier: One of the most important features of the Random Forest Algorithm is that it can handle the data set containing continuous variables as in the case of regression and categorical variables as in the case of classification
 
-
 ## Algorithm
-
 1.In Random forest n number of random records are taken from the data set having k number of records.
 
 2.Individual decision trees are constructed for each sample.
@@ -26,19 +24,14 @@ Purpose of Random classifier: One of the most important features of the Random F
 
 4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
-
 ## Program:
 ```python
 '''
 Program to implement random classification.
-
 Developed by   : LOKESH KRISHNAA M 
-
 RegisterNumber :  212220230030
 '''
-
 #importing required libraries 
-
 import matplotlib.pyplot as plt
 from sklearn import datasets
 
@@ -50,19 +43,13 @@ plt.plot(x[:,0][y==1],x[:,1][y==1],'bs')
 plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
-
-
 ```
-
 
 ## Output:
 
 <img width="505" alt="exp1" src="https://user-images.githubusercontent.com/75234646/165083014-b41c2112-e220-44cb-a548-e9d6ff9e1d04.png">
 
-
-
 ## Result:
-
 Thus the random classifier was successfully implemented using python programming.
 
 
