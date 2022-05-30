@@ -1,6 +1,5 @@
 ### EXP. NO : 01
 ### DATE: 04.04.22
-
 # <p align="center">RANDOM CLASSIFICATION</p>
 ## AIM:
 To write a python program to perform random classification.
@@ -10,7 +9,6 @@ To write a python program to perform random classification.
 2. Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Related Theoritical Concept:
-
 Random classifier: It creates a set of decision trees from randomly selected subset of training set. It then aggregates the votes from different decision trees to decide the final class of the test object. Random Forest is suitable for situations when we have a large dataset, and interpretability is not a major concern.
 
 Purpose of Random classifier: One of the most important features of the Random Forest Algorithm is that it can handle the data set containing continuous variables as in the case of regression and categorical variables as in the case of classification
@@ -20,6 +18,7 @@ Purpose of Random classifier: One of the most important features of the Random F
 2.Individual decision trees are constructed for each sample.
 3.Each decision tree will generate an output.
 4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
+
 
 ## Program:
 ```python
@@ -48,5 +47,3 @@ plt.title('Random Classification Data with 2 classes')
 
 ## Result:
 Thus the random classifier was successfully implemented using python programming.
-
-
