@@ -18,18 +18,14 @@ To write a python program to perform random classification.
 2. Individual decision trees are constructed for each sample.
 3. Each decision tree will generate an output.
 4. Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
-
 <br>
 <br> 
-<br>
 
 ## PROGRAM:
 ```python
 #Program to implement random classification.
 #Developed by   : Lokesh Krishnaa M 
 #Register Number : 212220230030
-
-
 import matplotlib.pyplot as plt
 from sklearn import datasets
 x,y=datasets.make_blobs(n_samples=100,n_features=2,centers=2,cluster_std=1.05,random_state=2)
