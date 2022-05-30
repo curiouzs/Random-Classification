@@ -22,15 +22,9 @@ To write a python program to perform random classification.
 <br>
 <br> 
 <br>
-<br>
-<br/>
-<br/>
-<br/>
-
 
 ## PROGRAM:
 ```python
-
 #Program to implement random classification.
 #Developed by   : Lokesh Krishnaa M 
 #Register Number : 212220230030
